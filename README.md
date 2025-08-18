@@ -28,7 +28,7 @@ The tool's key functions include:
 
 ### Screenshots 📸
 
-Here are some screenshots showcasing the tool's interface and functionality (actual screenshots to be added to the repository):
+Here are some screenshots showcasing the tool's interface and functionality:
 
 * **Main application window**: ![Main application window](./img1.png)
 * **Pallet verification results**: ![Pallet verification results](./img2.png)
@@ -56,11 +56,12 @@ This project has highlighted the potential for further digital transformation. I
 
 * **Integrated Dashboard**: A real-time dashboard to track user performance and display key production metrics.
 * **Production Analytics**: Visualizations to show the most produced models by quantity over time.
-* **Predictive Forecasting**: Using machine learning models to forecast future production needs based on historical data. This will help us anticipate new orders and plan our production schedule more effectively.
+* **Predictive Forecasting**: Using machine learning models to forecast future production needs based on historical data. This will help STLR anticipates new orders and plan for production schedule more effectively.
 
 ---
 
 **Disclaimer**: This repository provides a conceptual overview and demonstration of a tool developed for internal use at STLR in Gatineau, Quebec. The source code is not publicly available to protect company intellectual property and operational security.
+
 
 
 
