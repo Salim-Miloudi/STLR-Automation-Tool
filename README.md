@@ -30,12 +30,11 @@ The tool's key functions include:
 
 Here are some screenshots showcasing the tool's interface and functionality (actual screenshots to be added to the repository):
 
-* **Main Application Window**: \[Placeholder for Main Window Screenshot]
-* **File Selection Dialog**: \[Placeholder for File Selection Screenshot]
-* **Progress Output**: \[Placeholder for Automation Progress Screenshot]
-* **Pallet Verification Confirmation**: \[Placeholder for Pallet Verification Screenshot]
+* **Main application window**: \[img1.png]
+* **Pallet verification results**: \[img2.png]
+* **Different options to choose from**: \[img2.png]
+* **App launching**: \[img4.png]
 
-*To see these screenshots, please ensure you upload the corresponding image files to the root of this repository.*
 
 ---
 
@@ -62,4 +61,5 @@ This project has highlighted the potential for further digital transformation. I
 ---
 
 **Disclaimer**: This repository provides a conceptual overview and demonstration of a tool developed for internal use at STLR in Gatineau, Quebec. The source code is not publicly available to protect company intellectual property and operational security.
+
 
