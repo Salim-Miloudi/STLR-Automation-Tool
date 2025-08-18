@@ -33,7 +33,7 @@ Here are some screenshots showcasing the tool's interface and functionality:
 * **Main application window**: ![Main application window](./img1.png)
 * **Pallet verification results**: ![Pallet verification results](./img2.png)
 * **Different options to choose from**: ![Different options to choose from](./img4.png)
-* **App launching**:  ![App launching](./img3.png)
+* **App starting**:  ![App launching](./img3.png)
 
 
 ---
@@ -57,6 +57,7 @@ This project has highlighted the potential for further digital transformation. I
 * **Integrated Dashboard**: A real-time dashboard to track user performance and display key production metrics.
 * **Production Analytics**: Visualizations to show the most produced models by quantity over time.
 * **Predictive Forecasting**: Using machine learning models to forecast future production needs based on historical data. This will help STLR anticipate new orders and plan for its production schedule more effectively.
+
 
 
 
