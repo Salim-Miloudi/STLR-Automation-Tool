@@ -1,4 +1,4 @@
-### STLR Production Automation Tool
+### STLR (Service Technologique La Relance) Production Automation Tool
 
 This repository provides a conceptual overview and demonstration of a tool I developed for STLR in Gatineau, Quebec, Canada, to automate a critical production workflow. The source code is not publicly available to protect intellectual property and operational security.
 
