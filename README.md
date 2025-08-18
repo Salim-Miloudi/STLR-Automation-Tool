@@ -6,9 +6,9 @@ This repository provides a conceptual overview and demonstration of a tool I dev
 
 ### Project Summary
 
-I identified a significant inefficiency in STLR's production process: the manual assignment of refurbished machines to their respective palettes within the company's Inventory Management System. This was a time-consuming, repetitive, and error-prone task that hindered our team's productivity.
+I identified a significant inefficiency in STLR's production process: the manual assignment of refurbished machines to their respective pallets within the company's Inventory Management System. This was a time-consuming, repetitive, and error-prone task that hindered our team's productivity.
 
-To solve this, I designed and built an internal automation tool. This application connects directly to the web portal, reads machine and hard drive data from an Excel file, and automates the entire process of configuring and assigning devices to the correct production palettes.
+To solve this, I designed and built an internal automation tool. This application connects directly to the web portal, reads machine and hard drive data from an Excel file, and automates the entire process of configuring and assigning devices to the correct production pallets.
 
 The tool has been successfully implemented and is now used daily by multiple teams, including **Production**, **Quality Check**, **Packaging**, and **Recycling**. By automating this core task, it has freed up employees to focus on value-added activities like physical assembly and quality control.
 
@@ -20,8 +20,8 @@ The tool's key functions include:
 
 * **Automated Web Interaction**: Navigates the company's Inventory Management System to configure and assign machines.
 * **Data Processing**: Reads and processes machine and hard drive data directly from a user-provided Excel file.
-* **Workflow Automation**: Configures machine specifications (e.g., CPU, device type) and assigns them to the correct palette.
-* **Palette Verification**: Includes a feature for users to quickly verify the contents of a palette before shipping.
+* **Workflow Automation**: Configures machine specifications (e.g., CPU, device type) and assigns them to the correct pallet.
+* **Pallet Verification**: Includes a feature for users to quickly verify the contents of a pallet before shipping.
 * **Intuitive User Interface**: A simple GUI allows employees to easily select files and initiate the automation process.
 
 ---
@@ -33,7 +33,7 @@ Here are some screenshots showcasing the tool's interface and functionality (act
 * **Main Application Window**: \[Placeholder for Main Window Screenshot]
 * **File Selection Dialog**: \[Placeholder for File Selection Screenshot]
 * **Progress Output**: \[Placeholder for Automation Progress Screenshot]
-* **Palette Verification Confirmation**: \[Placeholder for Palette Verification Screenshot]
+* **Pallet Verification Confirmation**: \[Placeholder for Pallet Verification Screenshot]
 
 *To see these screenshots, please ensure you upload the corresponding image files to the root of this repository.*
 
@@ -62,3 +62,4 @@ This project has highlighted the potential for further digital transformation. I
 ---
 
 **Disclaimer**: This repository provides a conceptual overview and demonstration of a tool developed for internal use at STLR in Gatineau, Quebec. The source code is not publicly available to protect company intellectual property and operational security.
+
