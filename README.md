@@ -6,7 +6,7 @@ This repository provides a conceptual overview and demonstration of a tool I dev
 
 ### Project Summary
 
-I identified a significant inefficiency in STLR's production process: the manual assignment of refurbished machines to their respective pallets within the company's Inventory Management System. This was a time-consuming, repetitive, and error-prone task that hindered our team's productivity.
+I identified a significant inefficiency in STLR's production process: the manual assignment of refurbished machines to their respective pallets within the company's Inventory Management System. This was a time-consuming, repetitive, and error-prone task that hindered the team's productivity.
 
 To solve this, I designed and built an internal automation tool. This application connects directly to the web portal, reads machine and hard drive data from an Excel file, and automates the entire process of configuring and assigning devices to the correct production pallets.
 
@@ -57,6 +57,7 @@ This project has highlighted the potential for further digital transformation. I
 * **Integrated Dashboard**: A real-time dashboard to track user performance and display key production metrics.
 * **Production Analytics**: Visualizations to show the most produced models by quantity over time.
 * **Predictive Forecasting**: Using machine learning models to forecast future production needs based on historical data. This will help STLR anticipate new orders and plan for its production schedule more effectively.
+
 
 
 
