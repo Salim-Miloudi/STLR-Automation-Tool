@@ -1,6 +1,6 @@
 ### Service Technologique La Relance (STLR) Production Automation Tool
 
-This repository provides a conceptual overview and demonstration of a tool I developed for STLR in Gatineau, Quebec, Canada, to automate a critical production workflow. The source code is not publicly available to protect intellectual property and operational security.
+This repository provides a demonstration of a tool I developed for STLR in Gatineau, Quebec, Canada, to automate a critical production workflow. The source code is not publicly available to protect intellectual property and operational security.
 
 ---
 
@@ -57,6 +57,7 @@ This project has highlighted the potential for further digital transformation. I
 * **Integrated Dashboard**: A real-time dashboard to track user performance and display key production metrics.
 * **Production Analytics**: Visualizations to show the most produced models by quantity over time.
 * **Predictive Forecasting**: Using machine learning models to forecast future production needs based on historical data. This will help STLR anticipate new orders and plan for its production schedule more effectively.
+
 
 
 
